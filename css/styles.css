@@ -3,6 +3,16 @@ h1 {
     font-size: 50px;
 }
 
-img {
+/* img {
+    background-color: red;
+} */
+
+/*************************class selector**********************/
+
+.bacon {
+    background-color: green;
+}
+
+.broccoli {
     background-color: red;
 }
